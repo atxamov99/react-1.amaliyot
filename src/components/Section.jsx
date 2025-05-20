@@ -1,5 +1,5 @@
 import React from 'react';
-import secImg from '../assets/secImg.png';
+import secImg from '../assets/SecImg.png';
 import secImg2 from '../assets/secImg2.png';
 
 const Section = () => {
